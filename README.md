@@ -9,6 +9,7 @@ apt upgrade -y
 pip install --upgrade pip
 pip install request
 pip install rich
+git clone https://github.com/hasan1818666891/shorturl
 cd shorturl
 python run.py
 
